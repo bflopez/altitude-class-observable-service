@@ -6,8 +6,7 @@ An application built with Ionic 2/Angular to get your current altitude based on 
 
 ### Ionic
 
-```npm install -g cordova ionic
-```
+```npm install ionic -g```
 
 ### Start Ionic
 
