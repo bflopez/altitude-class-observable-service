@@ -1,4 +1,4 @@
-# altitude-observable-service
+# altitude-class-observable-service
 
 Playing around with observable from a promise as a service
 ## Prerequisites
@@ -10,7 +10,7 @@ Playing around with observable from a promise as a service
 ### Start Ionic
 
 ```
-cd altitude-observable-service
+cd altitude-class-observable-service
 ionic serve
 ```
 
