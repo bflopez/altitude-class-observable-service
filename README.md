@@ -10,7 +10,6 @@ An application built with Ionic 2/Angular to get your current altitude based on 
 
 ### Start Ionic
 
-```cd myAltitude2
-   ionic serve
-```
+```cd myAltitude
+ionic serve```
 
