@@ -1,7 +1,6 @@
-# myAltitude2
+# altitude-observable-service
 
-An application built with Ionic 2/Angular to get your current altitude based on your GPS coordinates.
-
+Playing around with observable from a promise as a service
 ## Prerequisites
 
 ### Ionic
@@ -11,7 +10,7 @@ An application built with Ionic 2/Angular to get your current altitude based on 
 ### Start Ionic
 
 ```
-cd myAltitude2
+cd altitude-observable-service
 ionic serve
 ```
 
