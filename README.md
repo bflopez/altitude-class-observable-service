@@ -1,4 +1,4 @@
-# ngAltitude
+# ngAltitude-attempt-1
 
 [NOT WORKING] 
 
@@ -12,7 +12,7 @@ Playing around with observable from a promise as a service
 ### Start Ionic
 
 ```
-cd ngAltitude
+cd ngAltitude-attempt-1
 ionic serve
 ```
 
