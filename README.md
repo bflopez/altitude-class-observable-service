@@ -1,5 +1,7 @@
 # ngAltitude
 
+[NOT WORKING] 
+
 Playing around with observable from a promise as a service
 ## Prerequisites
 
